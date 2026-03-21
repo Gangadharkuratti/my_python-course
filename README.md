@@ -13,4 +13,11 @@ This repository contains my Python learning journey 🚀
 - average of two numbers entered by the user
 - Square of number
 
-More coming soon 💯
+## completed
+- practice set 2 ✅
+
+## programs
+- Name followed by Good afternoon
+- Detecting double space
+- replacing double space with single space
+- String slicing
