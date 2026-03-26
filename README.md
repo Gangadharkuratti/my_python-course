@@ -60,3 +60,12 @@ This repository contains my Python learning journey 🚀
   - program to print a table of a number entered by the user using while loop
   - program to find whether a given number is prime or not
   - program to find the sum of first n natural numbers
+
+## completed (Day_7)
+  - practice set 7  ✅
+
+## programs
+  - program to find the factorial of a number
+  - program to print the odd number star pattern
+  - program to print the simple star pattern
+  - program to print the table of a number reverse
