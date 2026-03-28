@@ -78,6 +78,4 @@ This repository contains my Python learning journey 🚀
   - program to find the area of rectangle
   - program to find the area of triangle
   - program to find the area of square
-  -
-  -
-  -
+  
