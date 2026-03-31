@@ -87,5 +87,15 @@ This repository contains my Python learning journey 🚀
   - program to find the cube of the number
   - program to find the a average of the numbers
   - program to covert celsius to fahrenheit
+
+## completed (Day_10)
+  - practice set 10 ✅
+
+## programs 
+  - program to find whether the entered number is positive negative or zero
+  - program to find the largest of two numbers
+  - program to find the largest of three numbers
+  - program to swap two numbers
+  - program to swap two numbers using third variable
   
   
