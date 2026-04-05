@@ -125,6 +125,14 @@ This repository contains my Python learning journey 🚀
   - program to print even numbers
   - program to print odd numbers
 
+## completed (Day_14)
+  - practice set 13 ✅
+
+## programs
+  - program to print the fibonacci series
+  - program to print the sum of the digits
+  
+
     
   
   
