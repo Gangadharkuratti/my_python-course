@@ -138,7 +138,13 @@ This repository contains my Python learning journey 🚀
 ## programs
   - program to print reverse of a number
   - program to print the count of digits
-  
+
+## completed (Day_16)
+  - practice set 16 ✅
+
+## programs
+  - program to print whether a given number is prime
+  - program to find wheher a given number  is perfect or not
   
 
     
