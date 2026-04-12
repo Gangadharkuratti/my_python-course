@@ -145,8 +145,14 @@ This repository contains my Python learning journey 🚀
 ## programs
   - program to print whether a given number is prime
   - program to find wheher a given number  is perfect or not
-  
 
+ ## completed (Day_17)
+  - practice set 17 ✅
+
+## programs
+  - program to print the armstrong number
+
+ 
     
   
   
