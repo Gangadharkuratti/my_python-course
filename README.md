@@ -165,3 +165,9 @@ This repository contains my Python learning journey 🚀
 ## programs
   - program to find the gcd of numbers entered by the user   
   
+## completed (Day_20)
+  - practice set 20 ✅
+
+## programs
+  - program to print the power of a number
+  - above program using no loop 
